@@ -1,1 +1,1 @@
-{"name": "Akwam Extension Repo", "plugins": []}
+{"name": "Akwam Repo", "icon": "https://i.imgur.com/743u22t.png", "plugins": ["https://raw.githubusercontent.com/younour336327/cloudstream-akwam-ext/main/plugins.json"]}
