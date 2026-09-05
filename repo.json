@@ -1,1 +1,1 @@
-{"name": "Akwam Repo", "icon": "https://i.imgur.com/743u22t.png", "extensions": [{"name": "Akwam", "internalName": "Akwam", "version": 1, "url": "https://raw.githubusercontent.com/younour336327/cloudstream-akwam-ext/main/Akwam.cs3", "authors": ["Noor"], "description": "إضافة أكوام", "language": "ar"}]}
+{"name": "Akwam Repo", "icon": "https://i.imgur.com/743u22t.png", "plugins": ["https://raw.githubusercontent.com/younour336327/cloudstream-akwam-ext/main/plugins.json"]}
